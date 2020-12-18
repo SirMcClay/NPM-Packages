@@ -10,3 +10,6 @@ _To create a package on NPM you need to start Git_
 _Then this NPM commands_
 1- npm login
 2- npm publish --access public
+
+_To versioning package in package.json_
+npm version patch (or change manually on package.json)
