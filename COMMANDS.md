@@ -13,3 +13,5 @@ _Then this NPM commands_
 
 _To versioning package in package.json_
 npm version patch (or change manually on package.json)
+
+npm publish (to publish whenever we run a new build)
