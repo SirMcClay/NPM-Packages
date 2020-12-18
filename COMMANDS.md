@@ -15,3 +15,9 @@ _To versioning package in package.json_
 npm version patch (or change manually on package.json)
 
 npm publish (to publish whenever we run a new build)
+
+_To unpublish_
+npm unpublish <@oganization/package_name> -f
+
+_To update a package on another service_
+npm update <@oganization/package_name>
